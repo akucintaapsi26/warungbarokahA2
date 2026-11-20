@@ -1,0 +1,26 @@
+Vegetable market photo
+Source: https://images.unsplash.com/photo-1542838132-92c53300491e
+License: Unsplash License, https://unsplash.com/license
+
+User-provided product references
+Source: Images supplied by the user in the conversation.
+Files: jamur-tiram-reference.png, kentang-reference.png, sawi-reference.png, beras-rojolele-reference.png, kecap-bango-reference.png, gula-rosebrand-reference.png
+
+Fruit catalog photos
+bengkoang.jpg: "Jicama", Gary Soup, CC BY 2.0, https://www.flickr.com/photos/87117631@N00/1819513057
+User-provided vegetable and fruit references
+Source: Images supplied by the user in the conversation.
+Files: kangkung-reference.png, gula-jawa-reference.png, jeruk-reference.png, nanas-reference.png, pisang-reference.png, pepaya-reference.png, semangka-reference.png, mangga-reference.png, melon-reference.png, salak-reference.png, belimbing-reference.png
+
+Seasoning catalog photos
+User-provided spice product references
+Source: Images supplied by the user in the conversation.
+Files: garam-kapal.png, penyedap-masako.png, bumbu-racik-indofood.png, saus-tiram-abc.png, terasi-abc.png, merica-ladaku.png, kunyit-desaku.png, ketumbar-bubuk-reference.png, kecap-asin-abc.png
+
+User-provided market photos
+Source: Images supplied by the user in the conversation.
+Files: market-gallery-1.jpeg, market-gallery-2.jpeg, market-gallery-3.jpeg, market-gallery-4.jpeg, market-gallery-5.jpeg
+
+User-provided overview photo
+Source: Image supplied by the user in the conversation.
+File: gambaran-market.jpeg
